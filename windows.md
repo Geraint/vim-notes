@@ -16,11 +16,11 @@ For another excellent tutorial, see http://reefpoints.dockyard.com/2013/11/27/vi
 * move current window the far right and full height of the screen: `CTRL-w L`
 * resize the windows equally : `CTRL-w =`
 * incrementally increase the window to the right: `CTRL-w >`
- * takes a parameter, e.g. `CTRL-w 20 >`
+    * takes a parameter, e.g. `CTRL-w 20 >`
 * incrementally increase the window to the left: `CTRL-w <`
- * takes a parameter, e.g. `CTRL-w 20 <`
+    * takes a parameter, e.g. `CTRL-w 20 <`
 * incrementally decrease the window's height: `CTRL-w -`
- * takes a parameter, e.g. `CTRL-w 10 -`
+    * takes a parameter, e.g. `CTRL-w 10 -`
 * incrementally increase the window's height: `CTRL-w +`
- * takes a parameter, e.g. `CTRL-w 10 +`
+    * takes a parameter, e.g. `CTRL-w 10 +`
 
