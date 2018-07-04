@@ -33,7 +33,7 @@ Operation | Keystrokes
 --------- | ----------
 go up one directory | `-`
 
-## Move around
+## View settings
 
 Operation | Keystrokes
 --------- | ----------
