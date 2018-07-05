@@ -7,7 +7,8 @@ Operation | Keystrokes | Comments
 Status | `:Gstatus` |
 Jump to next file (in Gstatus buffer) | `<c-n>`
 Jump to previous file (in Gstatus buffer) | `<c-p>`
-For currently selected file(s) (in Gstatus buffer), add to/remove from git index | '-' | multiple files can be added/removed in visual mode
+For file(s) under cursor (in Gstatus buffer), add to/remove from git index | '-' | multiple files can be added/removed in visual mode.  Not that `:Git add .` is faster if you have a lot of files
+Open file under cursor | <CR> | 
 
 ## Staging and unstaging
 
