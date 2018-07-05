@@ -5,6 +5,11 @@
 Operation | Keystrokes
 --------- | ----------
 Status | `:Gstatus`
+
+## Staging and unstaging
+
+Operation | Keystrokes
+--------- | ----------
 Stage current file | `:Gwrite`
 Revert *uncommitted* changes on current file | `:Gread`
 
