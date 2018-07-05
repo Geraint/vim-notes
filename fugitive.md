@@ -2,9 +2,12 @@
 
 ## Checking git status
 
-Operation | Keystrokes
---------- | ----------
-Status | `:Gstatus`
+Operation | Keystrokes | Comments
+--------- | ---------- | --------
+Status | `:Gstatus` |
+Jump to next file (in Gstatus buffer) | `<c-n>`
+Jump to previous file (in Gstatus buffer) | `<c-p>`
+For currently selected file(s) (in Gstatus buffer), add to/remove from git index | '-' | multiple files can be added/removed in visual mode
 
 ## Staging and unstaging
 
