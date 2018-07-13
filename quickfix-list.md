@@ -12,6 +12,8 @@ Command | Keystrokes | Comments
 ------- | ---------- | --------
 Move to next error in quickfix list | `:cnext`
 Previous | `:cprev`
+Move forward five items | `:5cnext`
+Move back five items | `:5cprev`
 First | `:cfirst`
 Last | `:clast`
 First item in next file | `:cnfile`
