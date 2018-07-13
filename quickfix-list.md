@@ -41,4 +41,4 @@ See newer version | `:cnewer` | also takes a count
 
 Command | Keystrokes | Comments
 ------- | ---------- | --------
-For example, list the current file | `:setlocal makeprg ls\ -alF\ %` | Note that spaces are escape - see `:help makeprg` for more info
+For example, list the current file | `:setlocal makeprg ls\ -alF\ %` | Note that spaces are escaped - see `:help makeprg` for more info
