@@ -1,0 +1,5 @@
+## DOCUMENTATION
+*.md text eof=lf
+
+## CONFIGS
+*.gitattributes text eof=lf
