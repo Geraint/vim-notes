@@ -51,3 +51,9 @@ Note that `<target-path>` is relative to path of current file.
 
 Note also that if you use an absolute path (e.g. `/target-path/`), it is relative to the root of the git repository, not the root of the file system.
 
+## Diff stuff
+
+Operation | Keystrokes
+--------- | ----------
+Show changes in current file | `:Gvdiff`
+Close that view | `:q`
