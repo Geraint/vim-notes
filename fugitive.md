@@ -9,6 +9,8 @@ Jump to next file (in Gstatus buffer) | `<c-n>`
 Jump to previous file (in Gstatus buffer) | `<c-p>`
 For file(s) under cursor (in Gstatus buffer), add to/remove from git index | '-' | multiple files can be added/removed in visual mode.  Not that `:Git add .` is faster if you have a lot of files
 Open file under cursor | `<CR>` | 
+Diff file under cursor | <kbd>D</kbd> | 
+Open Commit window from status window | <kbd>cc</kbd>
 
 ## Staging and unstaging
 
@@ -57,3 +59,6 @@ Operation | Keystrokes
 --------- | ----------
 Show changes in current file | `:Gvdiff`
 Close that view | `:q`
+Next change | <kbd>]c</kbd>
+Previous change | <kbd>[c</kbd>
+
