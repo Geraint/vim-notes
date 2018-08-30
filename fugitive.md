@@ -62,3 +62,4 @@ Close that view | `:q`
 Next change | <kbd>]</kbd> <kbd>c</kbd>
 Previous change | <kbd>[</kbd> <kbd>c</kbd>
 
+See also [this gist](https://gist.github.com/mattratleph/4026987).
